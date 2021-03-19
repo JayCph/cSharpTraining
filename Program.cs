@@ -7,7 +7,8 @@ namespace _15_passwordValidation
         static void Main(string[] args)
         {
             //Code about some passwords etc coming here
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("more codes about pw's");
+
         }
     }
 }
